@@ -1,10 +1,18 @@
 [
     {
-        "texto": "Estudar e dominar PHP, HTML, CSS e JavaScript",
+        "texto": "Fazer um curso",
         "concluida": false
     },
     {
-        "texto": "Teste inicial",
+        "texto": "Fazer algo com a vida",
+        "concluida": true
+    },
+    {
+        "texto": "MAKE MONEY!!!",
+        "concluida": false
+    },
+    {
+        "texto": "MAKE MONEY, NOT FRIENDS!!!",
         "concluida": true
     }
 ]
