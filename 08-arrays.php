@@ -56,4 +56,11 @@ echo "<br>";
 foreach($times["Restinga"] as $indice => $valor){
     echo $indice.":".$valor."<br>";
 }
+echo "<hr>";
+$a = 10;
+$b = 12;
+$c = 21;
+
+$d = ($a + $b / $c);
+echo "Sera realizada a soma e divisao de (10 + 12 / $21) que resulta em: ".$d;
 ?>
