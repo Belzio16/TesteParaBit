@@ -8,6 +8,4 @@ if(($idade == 20) and ($nome == "João")):
  else :
     echo "Falso";
  endif;
-
- 
  ?>
